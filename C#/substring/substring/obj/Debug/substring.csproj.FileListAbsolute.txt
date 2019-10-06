@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\bin\Debug\substring.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\bin\Debug\substring.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\bin\Debug\substring.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\obj\Debug\substring.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\obj\Debug\substring.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\obj\Debug\substring.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\substring\substring\obj\Debug\substring.pdb

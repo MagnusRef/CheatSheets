@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\bin\Debug\påskedagformula.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\bin\Debug\påskedagformula.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\bin\Debug\påskedagformula.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\obj\Debug\påskedagformula.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\obj\Debug\påskedagformula.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\obj\Debug\påskedagformula.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\påskedagformula\påskedagformula\obj\Debug\påskedagformula.pdb

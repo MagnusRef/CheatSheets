@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\bin\Debug\BinærUr.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\bin\Debug\BinærUr.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\bin\Debug\BinærUr.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\obj\Debug\BinærUr.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\obj\Debug\BinærUr.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\obj\Debug\BinærUr.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\BinærUr\BinærUr\obj\Debug\BinærUr.pdb

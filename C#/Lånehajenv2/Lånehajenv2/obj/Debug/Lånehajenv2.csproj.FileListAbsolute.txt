@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\bin\Debug\Lånehajenv2.exe.config
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\bin\Debug\Lånehajenv2.exe
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\bin\Debug\Lånehajenv2.pdb
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\obj\Debug\Lånehajenv2.csprojAssemblyReference.cache
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\obj\Debug\Lånehajenv2.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\obj\Debug\Lånehajenv2.exe
+C:\Users\MagnusRC\source\repos\Lånehajenv2\Lånehajenv2\obj\Debug\Lånehajenv2.pdb

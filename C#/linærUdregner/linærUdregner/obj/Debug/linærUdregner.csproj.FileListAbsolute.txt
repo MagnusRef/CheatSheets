@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\bin\Debug\linærUdregner.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\bin\Debug\linærUdregner.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\bin\Debug\linærUdregner.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\obj\Debug\linærUdregner.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\obj\Debug\linærUdregner.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\obj\Debug\linærUdregner.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\linærUdregner\linærUdregner\obj\Debug\linærUdregner.pdb

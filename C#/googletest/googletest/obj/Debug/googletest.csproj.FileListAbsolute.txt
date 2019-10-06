@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\source\repos\googletest\googletest\bin\Debug\googletest.exe.config
+C:\Users\MagnusRC\source\repos\googletest\googletest\bin\Debug\googletest.exe
+C:\Users\MagnusRC\source\repos\googletest\googletest\bin\Debug\googletest.pdb
+C:\Users\MagnusRC\source\repos\googletest\googletest\obj\Debug\googletest.csprojAssemblyReference.cache
+C:\Users\MagnusRC\source\repos\googletest\googletest\obj\Debug\googletest.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\source\repos\googletest\googletest\obj\Debug\googletest.exe
+C:\Users\MagnusRC\source\repos\googletest\googletest\obj\Debug\googletest.pdb

@@ -1,0 +1,7 @@
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\bin\Debug\primtaludregner.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\bin\Debug\primtaludregner.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\bin\Debug\primtaludregner.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\obj\Debug\primtaludregner.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\obj\Debug\primtaludregner.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\obj\Debug\primtaludregner.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\primtaludregner\primtaludregner\obj\Debug\primtaludregner.pdb

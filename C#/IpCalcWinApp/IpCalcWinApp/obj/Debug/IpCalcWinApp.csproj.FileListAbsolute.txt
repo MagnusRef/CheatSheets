@@ -1,0 +1,10 @@
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\bin\Debug\IpCalcWinApp.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\bin\Debug\IpCalcWinApp.exe
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\bin\Debug\IpCalcWinApp.pdb
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.Form1.resources
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.Properties.Resources.resources
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.csproj.GenerateResource.cache
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.exe
+C:\Users\MagnusRC\Dropbox\Skole\GF2\Programmering\CheatSheet\IpCalcWinApp\IpCalcWinApp\obj\Debug\IpCalcWinApp.pdb

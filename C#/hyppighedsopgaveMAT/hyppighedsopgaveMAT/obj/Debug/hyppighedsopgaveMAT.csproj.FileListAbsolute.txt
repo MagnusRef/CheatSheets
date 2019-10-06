@@ -1,0 +1,14 @@
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.exe.config
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.exe
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.pdb
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.csprojAssemblyReference.cache
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.exe
+C:\Users\MagnusRC\source\repos\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.exe.config
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\bin\Debug\hyppighedsopgaveMAT.pdb
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.csprojAssemblyReference.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.csproj.CoreCompileInputs.cache
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.exe
+C:\Users\MagnusRC\Dropbox\Skole\TEC\GF2\Programmering\CheatSheet\hyppighedsopgaveMAT\hyppighedsopgaveMAT\obj\Debug\hyppighedsopgaveMAT.pdb
