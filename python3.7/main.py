@@ -223,3 +223,12 @@ class Cat(Animal): # example of class inheritance
 
 Luca = Cat("Luca", 33, 7, "Meow", "Hvidovre", "No none")
 print(Luca.toString)
+###############################################################
+# packages
+###############################################################
+from demopackage.module1 import function1
+from demopackage.module2 import function2
+from demopackage.module3 import function3
+function1()
+function2()
+function3()
