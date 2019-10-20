@@ -226,9 +226,9 @@ print(Luca.toString)
 ###############################################################
 # packages
 ###############################################################
-from demopackage.module1 import function1 # import a function or class from a specific module in the package
-from demopackage.module2 import function2 # x 2
-from demopackage.module3 import function3 # x 3
+from basics.demopackage.module1 import function1 # import a function or class from a specific module in the package
+from basics.demopackage.module2 import function2 # x 2
+from basics.demopackage import function3 # x 3
 # from     folder.file    import something
 # import demopackage         # import the package and all modules
 # import demopackage.module1 # import a specific module
